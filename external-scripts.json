@@ -4,6 +4,7 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-microsoft-translator",
+  "hubot-weather-underground",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
